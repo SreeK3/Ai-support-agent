@@ -1,0 +1,32 @@
+COMPANY: AsuiTech Solutions
+ABOUT: AsuiTech Solutions is a technology company 
+specializing in AI/ML solutions, web development, 
+mobile apps, cloud services, and IT consulting.
+
+SERVICES:
+- AI & Machine Learning Solutions
+- Web Development
+- Mobile App Development
+- Cloud Computing & DevOps
+- IT Consulting & Support
+- Healthcare IT Solutions
+- ERP & CRM Implementation
+- Digital Marketing
+
+CONTACT:
+Email: info@asuitech.com
+Website: www.asuitech.com
+Support Hours: Monday-Friday 9AM-6PM EST
+
+FAQ:
+Q: How do I contact support?
+A: Email info@asuitech.com or visit our website.
+
+Q: What industries do you serve?
+A: Healthcare, Finance, Retail, Education, and more.
+
+Q: Do you offer free consultations?
+A: Yes, we offer free initial consultations.
+
+Q: Where are you located?
+A: We operate remotely with teams across the US.
