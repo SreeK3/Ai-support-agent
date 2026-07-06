@@ -1,8 +1,15 @@
 langchain
+langchain-community
 langchain-groq
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-core
 chromadb
 fastapi
 uvicorn
 python-dotenv
 pypdf
 sentence-transformers
+torch
+groq
