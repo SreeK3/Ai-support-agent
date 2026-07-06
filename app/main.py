@@ -11,7 +11,8 @@ import os
 sys.path.append(str(Path(__file__).parent))
 
 from rag import get_retriever
-from agent import get_response, chat_history
+from agent import get_response
+import agent
 
 load_dotenv()
 
@@ -71,7 +72,7 @@ def ask_question(request: QuestionRequest):
 @app.delete("/clear")
 def clear_history():
     """Clear conversation history."""
-    chat_history.clear()
+    agent.chat_history.clear()
     return {"message": "Conversation history cleared!"}
 
 @app.get("/health")
