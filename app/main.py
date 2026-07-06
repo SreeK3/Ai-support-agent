@@ -30,7 +30,12 @@ app.mount(
 )
 
 # Load retriever once when server starts
+# Load retriever once when server starts
 print("Loading AI agent...")
+from rag import create_vector_store, CHROMA_DIR
+if not CHROMA_DIR.exists():
+    print("Creating vector store from documents...")
+    create_vector_store()
 retriever = get_retriever()
 print("AI agent ready!")
 
