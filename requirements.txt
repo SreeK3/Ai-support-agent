@@ -11,5 +11,5 @@ uvicorn
 python-dotenv
 pypdf
 sentence-transformers
-torch
-groq
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.1.0+cpu
