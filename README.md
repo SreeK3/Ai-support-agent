@@ -29,10 +29,17 @@ Answer displayed in real-time chat interface
 - ⚡ **Fast responses** — powered by Groq's ultra-fast inference
 - 🔌 **Plug and play** — swap any company's documents and it's ready
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-`Python` · `LangChain` · `ChromaDB` · `Groq API (Llama 3)` · `FastAPI` · `Uvicorn` · `HuggingFace Embeddings` · `Pydantic`
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/-Uvicorn-499848?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ## Project Structure
 
 ```
