@@ -102,3 +102,7 @@ The RAG pipeline retrieves top-3 most relevant document chunks per query using s
 ## Built For
 
 Originally built as an AI support assistant for **AsuiTech Solutions** — reusable for any company by replacing documents in the `docs/` folder.
+
+## 📸 Screenshot
+
+![Aisu Chat UI](assets/screenshot.png)
